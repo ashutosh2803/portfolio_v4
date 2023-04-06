@@ -2,7 +2,7 @@
 ---
 ## Running the app
 
-To run the deployed app, visit 
+To run the deployed app, visit https://ashutosh-portfolio-v4.netlify.app/
 
 To run the app locally, 
 
